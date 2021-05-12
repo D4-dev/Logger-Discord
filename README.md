@@ -1,5 +1,5 @@
-Bonjour je vous presente un tools que j'ai fait en 10 minutes , c'est un petit tools comme le plugins MessageLogger . 
-#1 Tout d'abord faut entre votre token dans Config.json 
-#2 Avoir nodejs sur votre pc 
-#3 etre sur notre discord : [ - discord.gg/punchnox - ] :)
-![ScreenShot](https://cdn.discordapp.com/attachments/768115017777545216/784788432358080522/unknown.png)
+Tools qui permet de voir les messages supprimer sur des serveurs/groupe/message privé
+### 1 Tout d'abord faut entrer votre token/couleur-embed/prefix dans ./Config.json  
+### 2 Avoir nodejs sur votre pc | lien : https://nodejs.org/dist/v14.17.0/node-v14.17.0-x64.msi 
+### 3 Extraire le fichier node_module puis lancer le [Start.bat]  
+> Code open source !  
